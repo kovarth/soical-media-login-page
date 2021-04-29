@@ -1,0 +1,33 @@
+body{
+	margin:0;
+}
+.c1{
+	background-image:url(update.jpg);
+	background-position:center;
+	height:30rem;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.c2{
+	text-align:center;
+	line-height:1rem;
+	background:white;
+	width:25%;
+	padding:15px;
+	margin:90px auto;
+	
+	
+	
+}
+.h1{
+	color:white;
+	font-size:6rem;
+	font-family:algerian;
+	text-decoration:underline;
+	
+}
+.h4{
+	color:white;
+	font-size:4rem;
+	font-family:times newroman;
+}
